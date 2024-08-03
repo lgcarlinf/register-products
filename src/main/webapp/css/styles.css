@@ -52,3 +52,7 @@ h1{
         width: 200px;
     }
 }
+
+#todo-btn__back, .todo-btn__back{
+    margin-top: 16px;
+}

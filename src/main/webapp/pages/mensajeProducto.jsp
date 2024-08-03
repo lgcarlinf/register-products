@@ -17,7 +17,7 @@
 <div class="todo__container">
     <h1>Producto guardado</h1>
     <p>El producto ha sido guardado exitosamente</p>
-    <a href="index.jsp">Volver</a>
+    <a href="/index.jsp">Volver</a>
 </div>
 </body>
 </html>

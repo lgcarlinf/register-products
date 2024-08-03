@@ -26,7 +26,7 @@ public class ProductServlet extends HttpServlet {
 
         productService.register(product);
 
-        response.sendRedirect("mensajeProducto.jsp");
+        response.sendRedirect("pages/mensajeProducto.jsp");
     }
 
     public void destroy() {

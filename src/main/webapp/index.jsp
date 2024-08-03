@@ -23,7 +23,9 @@
                 <button type="submit" class="todo__add nes-btn is-primary">Add</button>
             </form>
         </div>
-        <a class="" href="/product-list">Listar Productos</a>
+        <div  class="todo-btn__back">
+            <a href="/product-list">Listar Productos</a>
+        </div>
     </div>
 </body>
 </html>
